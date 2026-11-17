@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mattylll.github.io/cml-2026-q4-15-commercial-property-croydon-231/sitemap.xml
